@@ -1,4 +1,4 @@
-# PetFinder.my-Adoption-Prediction-Project
+# PetFinder.my-Adoption-Speed-Prediction
 
 PetFinder.my has been Malaysia’s leading animal welfare platform since 2008, with a database of more than 150,000 animals. PetFinder collaborates closely with animal lovers, media, corporations, and global organizations to improve animal welfare.
 
