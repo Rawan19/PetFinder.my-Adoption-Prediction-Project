@@ -1,5 +1,5 @@
 # PetFinder.my-Adoption-Speed-Prediction
-
+*This is the final project for the machine learning course.*
 In this competition you will predict the speed at which a pet is adopted, based on the pet’s listing on PetFinder.  The data included text, tabular, sentiment, and image data.
 
 ## Image Metadata
